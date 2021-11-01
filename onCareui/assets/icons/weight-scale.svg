@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><script>
+        (function() {
+            // If GPC on, set DOM property to true if not already true
+            if (true) {
+                if (navigator.globalPrivacyControl) return
+                Object.defineProperty(navigator, 'globalPrivacyControl', {
+                    value: true,
+                    enumerable: true
+                })
+            } else {
+                // If GPC off, set DOM property prototype to false so it may be overwritten
+                // with a true value by user agent or other extensions
+                if (typeof navigator.globalPrivacyControl !== "undefined") return
+                Object.defineProperty(Object.getPrototypeOf(navigator), 'globalPrivacyControl', {
+                    value: false,
+                    enumerable: true
+                })
+            }
+            // Remove script tag after execution
+            document.currentScript.parentElement.removeChild(document.currentScript)
+        })()
+        </script><path xmlns="http://www.w3.org/2000/svg" d="m467 0h-422c-24.8125 0-45 20.1875-45 45v422c0 24.8125 20.1875 45 45 45h422c24.8125 0 45-20.1875 45-45v-422c0-24.8125-20.1875-45-45-45zm-35.011719 140.667969-79.183593 105.34375c-4.972657 6.621093-14.367188 7.957031-20.988282 2.988281-22.039062-16.527344-48.257812-25.265625-75.816406-25.265625-27.5625 0-53.777344 8.738281-75.816406 25.265625-2.699219 2.023438-5.859375 3-8.988282 3-4.554687 0-9.054687-2.066406-12.003906-5.988281l-79.179687-105.34375c-2.394531-3.183594-3.421875-7.1875-2.863281-11.128907.5625-3.9375 2.667968-7.496093 5.851562-9.886718 50.289062-37.714844 110.113281-57.652344 173-57.652344s122.710938 19.9375 173 57.652344c3.183594 2.390625 5.289062 5.945312 5.851562 9.886718.558594 3.941407-.46875 7.945313-2.863281 11.128907zm0 0" fill="#8bb7f0" data-original="#000000" style="" class=""/><path xmlns="http://www.w3.org/2000/svg" d="m113.269531 134.984375 61.324219 81.585937c20.234375-12.382812 42.78125-19.882812 66.40625-22.117187v-45.71875c0-8.285156 6.71875-15 15-15 8.285156 0 15 6.714844 15 15v45.71875c23.625 2.234375 46.171875 9.734375 66.40625 22.117187l61.324219-81.585937c-42.378907-28.167969-91.417969-42.984375-142.730469-42.984375s-100.351562 14.816406-142.730469 42.984375zm0 0" fill="#8bb7f0" data-original="#000000" style="" class=""/></g></svg>

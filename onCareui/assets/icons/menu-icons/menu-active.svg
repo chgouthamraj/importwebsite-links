@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.352" height="8.352" viewBox="0 0 26.352 8.352">
+  <defs>
+    <path id="path-1" fill-rule="evenodd" d="M24.29741132 2.0548339c1.1715685 1.1715685 1.1715685 3.0710671 0 4.24263561-1.1715685 1.1715685-3.0710671 1.1715685-4.2426356 0-1.1715685-1.1715685-1.1715685-3.0710671 0-4.2426356 1.1715685-1.1715685 3.0710671-1.1715685 4.2426356 0"/>
+    <path id="path-2" fill-rule="evenodd" d="M15.2974637 2.0548339c1.1715685 1.1715685 1.1715685 3.0710671 0 4.24263561-1.17156851 1.1715685-3.07106711 1.1715685-4.24263561 0-1.1715685-1.1715685-1.1715685-3.0710671 0-4.2426356 1.1715685-1.1715685 3.0710671-1.1715685 4.2426356 0"/>
+    <path id="path-3" fill-rule="evenodd" d="M6.29746951 2.0548339c1.1715685 1.1715685 1.1715685 3.0710671 0 4.24263561-1.1715685 1.1715685-3.0710671 1.1715685-4.2426356 0-1.1715685-1.1715685-1.1715685-3.0710671 0-4.2426356 1.1715685-1.1715685 3.0710671-1.1715685 4.2426356 0"/>
+  </defs>
+  <g>
+    <g>
+      <use fill="rgb(131,0,81)" xlink:href="#path-1"/>
+      <use fill-opacity="0" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".5" xlink:href="#path-1"/>
+    </g>
+    <g>
+      <use fill="rgb(131,0,81)" xlink:href="#path-2"/>
+      <use fill-opacity="0" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".5" xlink:href="#path-2"/>
+    </g>
+    <g>
+      <use fill="rgb(131,0,81)" xlink:href="#path-3"/>
+      <use fill-opacity="0" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".5" xlink:href="#path-3"/>
+    </g>
+  </g>
+</svg>
