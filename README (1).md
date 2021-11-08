@@ -52,3 +52,5 @@ sample code:-
 
 - [Floating action buttion react native](https://stackoverflow.com/questions/33135256/floating-action-button-on-react-native)
 
+- [Multiple permissions in react native](https://stackoverflow.com/questions/54819865/how-do-i-request-multiple-permissions-at-once-in-react-native)
+
