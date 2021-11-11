@@ -56,3 +56,4 @@ sample code:-
 - [React native tutorials (youtube)](https://www.youtube.com/watch?v=LWs6dY92_MU&list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ&index=2)
 
 - [react redux tutorials](https://www.youtube.com/watch?v=qA6oyQQTJ3I&list=PL8VzFQ8k4U1I9ABPgyGamRoGdF5XvIHrt&index=6&ab_channel=SanjeevThiyagarajan)
+- [redux example] (https://blog.logrocket.com/comprehensive-guide-to-using-redux-in-react-native/)
