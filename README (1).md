@@ -57,3 +57,5 @@ sample code:-
 
 - [react redux tutorials](https://www.youtube.com/watch?v=qA6oyQQTJ3I&list=PL8VzFQ8k4U1I9ABPgyGamRoGdF5XvIHrt&index=6&ab_channel=SanjeevThiyagarajan)
 - [redux example](https://blog.logrocket.com/comprehensive-guide-to-using-redux-in-react-native/)
+- [reactnative splash screen](https://github.com/crazycodeboy/react-native-splash-screen)
+- [react native tutorials](https://www.youtube.com/watch?v=9_KDgsFGLY8&ab_channel=LirsTechTips)
