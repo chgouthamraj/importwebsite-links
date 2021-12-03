@@ -60,3 +60,5 @@ sample code:-
 - [reactnative splash screen](https://github.com/crazycodeboy/react-native-splash-screen)
 - [react native tutorials](https://www.youtube.com/watch?v=9_KDgsFGLY8&ab_channel=LirsTechTips)
 - [How to use react navigation to navigate from outside component](https://pretagteam.com/question/how-to-use-react-navigation-to-navigate-from-outside-component)
+- [For html css javascript formatting](https://codepen.io/quadrified/pen/xxVpgOZ?editors=0012)
+- [for for formatting json data](https://jsonlint.com/)
