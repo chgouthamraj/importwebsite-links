@@ -62,3 +62,4 @@ sample code:-
 - [How to use react navigation to navigate from outside component](https://pretagteam.com/question/how-to-use-react-navigation-to-navigate-from-outside-component)
 - [For html css javascript formatting](https://codepen.io/quadrified/pen/xxVpgOZ?editors=0012)
 - [for for formatting json data](https://jsonlint.com/)
+- [react native conditional rendering](https://www.digitalocean.com/community/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)
